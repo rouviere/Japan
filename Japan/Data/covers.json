@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "cover-bamboo"
+    },
+    
+    {
+        "id": 2,
+        "name": "cover-daikakuji"
+    },
+    
+    {
+        "id": 3,
+        "name": "cover-katsura"
+    },
+    
+    {
+        "id": 4,
+        "name": "cover-kinkakuji"
+    },
+    
+    {
+        "id": 5,
+        "name": "cover-kyoto-palace"
+    },
+    
+    {
+        "id": 6,
+        "name": "cover-todaiji"
+    },
+    
+    {
+        "id": 7,
+        "name": "cover-tokyo-palace"
+    }
+]

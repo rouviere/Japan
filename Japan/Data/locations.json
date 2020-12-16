@@ -1,0 +1,97 @@
+[
+    {
+        "id" : "bamboo",
+        "name" : "Arashiyama Bamboo",
+        "image" : "map-bamboo",
+        "latitude" : 35.017258566956855,
+        "longitude" : 135.67230243239027
+    },
+    
+    {
+        "id" : "daikakuji",
+        "name" : "Daikaku-ji",
+        "image" : "map-daikakuji",
+        "latitude" : 35.02816842235221,
+        "longitude" : 135.67848724773518
+    },
+    
+    {
+        "id" : "heijo",
+        "name" : "Heijō Palace",
+        "image" : "map-heijo",
+        "latitude" : 34.69073654525675,
+        "longitude" : 135.79460296307295
+    },
+    
+    {
+        "id" : "horyuji",
+        "name" : "Hōryū-ji",
+        "image" : "map-horyuji",
+        "latitude" : 34.61412955913581,
+        "longitude" : 135.73436295113612
+    },
+    
+    {
+        "id" : "katsura",
+        "name" : "Katsura Villa",
+        "image" : "map-katsura",
+        "latitude" : 34.98422831713312,
+        "longitude" : 135.70963637101073
+    },
+    
+    {
+        "id" : "kinkakuji",
+        "name" : "Kinkaku-ji",
+        "image" : "map-kinkakuji",
+        "latitude" : 35.03953907818854,
+        "longitude" : 135.72843575307243
+    },
+    
+    {
+        "id" : "kyoto-palace",
+        "name" : "Kyoto Imperial Palace",
+        "image" : "map-kyoto-palace",
+        "latitude" : 35.02421860035582,
+        "longitude" : 135.76239281889914
+    },
+    
+    {
+        "id" : "nijo",
+        "name" : "Nijō Castle",
+        "image" : "map-nijo",
+        "latitude" : 35.01373780570727,
+        "longitude" : 135.74988096760202
+    },
+    
+    {
+        "id" : "tokyo-palace",
+        "name" : "Imperial Palace",
+        "image" : "map-tokyo-palace",
+        "latitude" : 35.68536233793088,
+        "longitude" : 139.7538348306257
+    },
+    
+    {
+        "id" : "ryoanji",
+        "name" : "Ryōan-ji",
+        "image" : "map-ryoanji",
+        "latitude" : 35.03466119207382,
+        "longitude" : 135.7187676532949
+    },
+    
+    {
+        "id" : "sensoji",
+        "name" : "Sensō-ji",
+        "image" : "map-sensoji",
+        "latitude" : 35.71478903560684,
+        "longitude" : 139.79681891276056
+    },
+    
+    {
+        "id" : "todaiji",
+        "name" : "Tōdai-ji",
+        "image" : "map-todaiji",
+        "latitude" : 34.68929384355662,
+        "longitude" : 135.8402985956158
+    }
+]
