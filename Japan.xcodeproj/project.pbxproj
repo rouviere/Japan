@@ -30,6 +30,8 @@
 		23E5C5C225891E7E007F7B4A /* locations.json in Resources */ = {isa = PBXBuildFile; fileRef = 23E5C5C125891E7E007F7B4A /* locations.json */; };
 		23E5C5C5258922AA007F7B4A /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E5C5C4258922AA007F7B4A /* LocationModel.swift */; };
 		23E5C5C825892644007F7B4A /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E5C5C725892644007F7B4A /* MapAnnotationView.swift */; };
+		23E5C5CF258A7AD7007F7B4A /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E5C5CE258A7AD7007F7B4A /* MotionAnimationView.swift */; };
+		23E5C5D2258AAACC007F7B4A /* SiteGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E5C5D1258AAACC007F7B4A /* SiteGridItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +60,8 @@
 		23E5C5C125891E7E007F7B4A /* locations.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = locations.json; sourceTree = "<group>"; };
 		23E5C5C4258922AA007F7B4A /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		23E5C5C725892644007F7B4A /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
+		23E5C5CE258A7AD7007F7B4A /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
+		23E5C5D1258AAACC007F7B4A /* SiteGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiteGridItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,6 +166,8 @@
 				23E5C5B825883C23007F7B4A /* InsetMapView.swift */,
 				23E5C5BB25883E39007F7B4A /* ExternalWebLinkView.swift */,
 				23E5C5C725892644007F7B4A /* MapAnnotationView.swift */,
+				23E5C5CE258A7AD7007F7B4A /* MotionAnimationView.swift */,
+				23E5C5D1258AAACC007F7B4A /* SiteGridItemView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -243,6 +249,7 @@
 				23E5C5772587CEF4007F7B4A /* ContentView.swift in Sources */,
 				23E5C5AA25880E6F007F7B4A /* SiteListItemView.swift in Sources */,
 				23E5C59B2588014D007F7B4A /* MainView.swift in Sources */,
+				23E5C5CF258A7AD7007F7B4A /* MotionAnimationView.swift in Sources */,
 				23E5C5AD25882FC1007F7B4A /* SiteDetailView.swift in Sources */,
 				23E5C5C825892644007F7B4A /* MapAnnotationView.swift in Sources */,
 				23E5C59525880050007F7B4A /* Bundle+Extension.swift in Sources */,
@@ -255,6 +262,7 @@
 				23E5C5A125880167007F7B4A /* GalleryView.swift in Sources */,
 				23E5C5BC25883E39007F7B4A /* ExternalWebLinkView.swift in Sources */,
 				23E5C5C5258922AA007F7B4A /* LocationModel.swift in Sources */,
+				23E5C5D2258AAACC007F7B4A /* SiteGridItemView.swift in Sources */,
 				23E5C5B32588366D007F7B4A /* InsetGalleryView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

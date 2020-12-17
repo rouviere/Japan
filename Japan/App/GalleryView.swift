@@ -10,6 +10,7 @@ import SwiftUI
 struct GalleryView: View {
     @State private var selectedSite: String = "kinkakuji"
     let sites: [Site] = Bundle.main.decode("sites.json")
+    let haptics = UIImpactFeedbackGenerator(style: .medium)
     
     // Dyanmic Grid Layout
     @State private var gridLayout: [GridItem] = [GridItem(.flexible())]
@@ -47,6 +48,7 @@ struct GalleryView: View {
                             .padding(.vertical, 4)
                             .onTapGesture {
                                 selectedSite = item.image
+                                haptics.impactOccurred()
                             }
                     }
                 } //: GRID
@@ -59,6 +61,7 @@ struct GalleryView: View {
             .padding(.vertical, 50)
         } //: SCROLL
         .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .background(MotionAnimationView())
     }
 }
 
